@@ -46,7 +46,7 @@ NSString * param_Name = @"Param";
     
     //定时器相关
      MKTimer * mkTimer;
-     int      ct_cnt;                  //记录cycle time定时器中断的次数
+     int      ct_cnt;                  //记录cycle time定时器中断的次数---
     
     __weak IBOutlet NSButton *exitEditBtn;
     
